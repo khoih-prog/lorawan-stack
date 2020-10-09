@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Raw downlink PHY payloads are not stored anymore by Network Server.
 - Move documentation to [lorawan-stack-docs](https://github.com/TheThingsIndustries/lorawan-stack-docs).
 - Improve LinkADRReq scheduling condition computation and, as a consequence, downlink task efficiency.
+- Improve MQTT Pub/Sub task restart conditions and error propagation.
 
 ### Deprecated
 
